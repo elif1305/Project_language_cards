@@ -1,5 +1,5 @@
 
-# Project-003 : Language Cards
+# Project : Language Cards
 
 ## Description
 
@@ -36,9 +36,6 @@ SOLUTION
 
 ![Project 003 Snapshot](language-cards.gif)
 
-## Objective
-
-Build a Languages Cards App using ReactJS.
 
 ### At the end of the project, following topics are to be covered;
 

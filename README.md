@@ -1,13 +1,10 @@
 
-# Project-003 : Language Cards (RP-03)
+# Project-003 : Language Cards
 
 ## Description
 
 Project aims to create a Languages Cards App.
 
-## Problem Statement
-
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
 
 ## Project Skeleton
 
